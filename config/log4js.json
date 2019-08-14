@@ -1,0 +1,24 @@
+{
+  "appenders": [
+    {
+      "type":"console"
+    },
+    {
+      "type": "dateFile",
+      "filename": "logs/true.log",
+      "pattern": "-yyyy-MM-dd",
+      "category": "access"
+    },
+    {
+      "type": "dateFile",
+      "filename": "logs/false.log",
+      "pattern": "-yyyy-MM-dd",
+      "category": "failed"
+    },
+    {
+      "type": "dateFile",
+      "filename": "logs/error.log",
+      "pattern": "-yyyy-MM-dd",
+      "category": "error"
+    },
+}
