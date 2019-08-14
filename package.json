@@ -1,0 +1,24 @@
+{
+  "name": "interface_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "log4js": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZhangQingYong, zhanghao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraser-in-school/interfaceTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fraser-in-school/interfaceTest/issues"
+  },
+  "homepage": "https://github.com/fraser-in-school/interfaceTest#readme",
+  "description": ""
+}
